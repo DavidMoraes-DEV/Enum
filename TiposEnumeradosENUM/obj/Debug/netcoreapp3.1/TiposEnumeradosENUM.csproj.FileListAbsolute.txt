@@ -1,0 +1,13 @@
+C:\ProgramasCSharp\ConceitoDeEnumeracoes\TiposEnumeradosENUM\TiposEnumeradosENUM\bin\Debug\netcoreapp3.1\TiposEnumeradosENUM.exe
+C:\ProgramasCSharp\ConceitoDeEnumeracoes\TiposEnumeradosENUM\TiposEnumeradosENUM\bin\Debug\netcoreapp3.1\TiposEnumeradosENUM.deps.json
+C:\ProgramasCSharp\ConceitoDeEnumeracoes\TiposEnumeradosENUM\TiposEnumeradosENUM\bin\Debug\netcoreapp3.1\TiposEnumeradosENUM.runtimeconfig.json
+C:\ProgramasCSharp\ConceitoDeEnumeracoes\TiposEnumeradosENUM\TiposEnumeradosENUM\bin\Debug\netcoreapp3.1\TiposEnumeradosENUM.runtimeconfig.dev.json
+C:\ProgramasCSharp\ConceitoDeEnumeracoes\TiposEnumeradosENUM\TiposEnumeradosENUM\bin\Debug\netcoreapp3.1\TiposEnumeradosENUM.dll
+C:\ProgramasCSharp\ConceitoDeEnumeracoes\TiposEnumeradosENUM\TiposEnumeradosENUM\bin\Debug\netcoreapp3.1\TiposEnumeradosENUM.pdb
+C:\ProgramasCSharp\ConceitoDeEnumeracoes\TiposEnumeradosENUM\TiposEnumeradosENUM\obj\Debug\netcoreapp3.1\TiposEnumeradosENUM.csprojAssemblyReference.cache
+C:\ProgramasCSharp\ConceitoDeEnumeracoes\TiposEnumeradosENUM\TiposEnumeradosENUM\obj\Debug\netcoreapp3.1\TiposEnumeradosENUM.AssemblyInfoInputs.cache
+C:\ProgramasCSharp\ConceitoDeEnumeracoes\TiposEnumeradosENUM\TiposEnumeradosENUM\obj\Debug\netcoreapp3.1\TiposEnumeradosENUM.AssemblyInfo.cs
+C:\ProgramasCSharp\ConceitoDeEnumeracoes\TiposEnumeradosENUM\TiposEnumeradosENUM\obj\Debug\netcoreapp3.1\TiposEnumeradosENUM.csproj.CoreCompileInputs.cache
+C:\ProgramasCSharp\ConceitoDeEnumeracoes\TiposEnumeradosENUM\TiposEnumeradosENUM\obj\Debug\netcoreapp3.1\TiposEnumeradosENUM.dll
+C:\ProgramasCSharp\ConceitoDeEnumeracoes\TiposEnumeradosENUM\TiposEnumeradosENUM\obj\Debug\netcoreapp3.1\TiposEnumeradosENUM.pdb
+C:\ProgramasCSharp\ConceitoDeEnumeracoes\TiposEnumeradosENUM\TiposEnumeradosENUM\obj\Debug\netcoreapp3.1\TiposEnumeradosENUM.genruntimeconfig.cache
